@@ -1,3 +1,7 @@
+#Code written by AryanNaik24
+#Formulas used from https://www.geeksforgeeks.org/linear-regression-formula/
+
+
 import numpy as np
 import matplotlib.pyplot as plt
 
